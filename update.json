@@ -1,0 +1,11 @@
+{
+  "versionCode": "11",
+  "versionName": "1.0.5",
+  "downloadLink": "https://example.com/downloads/my_app_v1.0.1.apk",
+  "forceUpdate": false,
+  "Title": "Awesome New Features!",
+  "Msg": "We've listened to your feedback and made some significant improvements:\n\n- Dark Mode support added.\n- Faster loading times.\n- Improved stability and bug fixes.",
+  "updateSize": "37.70M",
+  "releaseDate": "2025-07-18",
+  "priority": "high"
+}
