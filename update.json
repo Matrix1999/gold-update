@@ -1,11 +1,9 @@
 {
-  "versionCode": "11",
-  "versionName": "1.0.6",
-  "downloadLink": "https://example.com/downloads/my_app_v1.0.1.apk",
-  "forceUpdate": false,
-  "Title": "Awesome New Features!",
-  "Msg": "We've listened to your feedback and made some significant improvements:\n\n- Dark Mode support added.\n- Faster loading times.\n- Improved stability and bug fixes.",
-  "updateSize": "37.70M",
-  "releaseDate": "2025-07-18",
-  "priority": "high"
+    "Title": "Update Available⚡",
+    "versionCode": "11",
+    "versionName": "1.0.6",
+    "updateSize": "37.70M",
+    "releaseDate": "July 18, 2025",
+    "Msg": "🎉 What's New:\n• Improved user interface\n• Added new features\n• Bug fixes and performance improvements\n• Enhanced security",
+    "downloadLink": "https://www.dropbox.com/scl/fi/6etqdgqecl3xhk6grgxxt/BreakerVPN.apk?rlkey=6qobr2f6fn1egrp9dqn9f7xj9&st=7kuahvh7&dl=1"
 }
